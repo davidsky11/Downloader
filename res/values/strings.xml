@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">Downloader</string>
+    <string name="default_path">http://10.0.2.2:8080/KnWebService/apk/KnSoft.apk</string>
+    <string name="t_download">下载</string>
+    <string name="t_stop">暂停</string>
+    <string name="path">下载路径</string>
+    <string name="success">下载成功</string>
+    <string name="error">下载出错</string>
+    <string name="sdcarderror">未检测到SD卡</string>
+
+</resources>
